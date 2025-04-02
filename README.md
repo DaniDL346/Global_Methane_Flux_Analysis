@@ -41,8 +41,6 @@ Investigation Questions:
 <br />
 Validating investigation questions:
 xxxxxxxx
-Per
-
 * List here your project hypothesis(es) and how you envision validating it (them) 
 
 ## Project Plan
@@ -60,8 +58,15 @@ Per
 * How did you use generative AI tools to help with ideation, design thinking and code optimisation?
 
 ## Ethical considerations
-* Were there any data privacy, bias or fairness issues with the data?
+xxxxx
+* Were there any data privacy, bias or fairness issues with the data?<br />
+No, there were no data privacy or bias issues with the data.
+
 * How did you overcome any legal or societal issues?
+
+<br />The responsibility of providing accurate and correct Methane emission data is of high importance. It plays a huge role in Climate justice in order to protect the most vulnerable low income communities and countries. 
+ <br />Methane gas is a powerful greenhouse has, more potent than CO₂ over 20 years. Reducing emissions has an immediate cooling effect and is one of the fastest ways to slow down global warming.
+ <br />It is our goal to flag organisations that are irresponsible in emitting Methane gas. The Planet belongs to all of us and not only large organisations that choose to misuse it. 
 
 ## Unfixed Bugs
 * Please mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a significant variable to consider, paucity of time and difficulty understanding implementation are not valid reasons to leave bugs unfixed.
@@ -81,6 +86,13 @@ Per
 
 * In this section, you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
 * You can break the credits section up into Content and Media, depending on what you have included in your project. 
+
+External references from the Kaggle dataset "Methane Emissions" on column "notes:"
+
+    -   Average based on United Nations Framework Convention on Climate Change (UNFCCC) (2022), Greenhouse Gas Data Interface, available at: https://di.unfccc.int/; O'Rourke, P. R, Smith, S. J., Mott, A., Ahsan, H., McDuffie, E. E., Crippa, M., Klimont, S., McDonald, B., Z., Wang, Nicholson, M. B, Feng, L., and Hoesly, R. M. (2021, February 05). Community Emissions Data System (CEDS) v-2021-02-05 Emission Data 1975-2019 (Version Feb-05-2021). Available at: http://doi.org/10.5281/zenodo.4509372.; Crippa, M., Guizzardi, D., Solazzo, E., Muntean, M., Schaaf, E., Monforti-Ferrario, F., Banja, M., Olivier, J.G.J., Grassi, G., Rossi, S., Vignati, E. (2021), GHG emissions of all world countries - 2021 Report, EUR 30831 EN, Publications Office of the European Union, Luxembourg, 2021, ISBN 978-92-76-41547-3, doi:10.2760/173513, JRC126363; (2022) EDGAR - Emissions Database for Global Atmospheric Research (EDGAR) v7.0 Greenhouse Gas Emissions. European Commission, Joint Research Centre (JRC) [Dataset] PID: https://edgar.jrc.ec.europa.eu/dataset_ghg70; Climate Watch (2022), Food and Agriculture Organisation of the United Nations (2022). Climate Watch data: Climate Watch, 2022, GHG Emissions, Washington, DC: World Resources Institute. FAO 2022, FAOSTAT Emissions Database. Available at: https://www.climatewatchdata.org/ghg-emissions"   
+
+    -   Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)
+ 
 
 ### Content 
 
